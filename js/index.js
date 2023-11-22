@@ -11,3 +11,17 @@ addButton.addEventListener("click", () => {
 clearButton.addEventListener("click", () => {
   // Exercise: Clear the stack of toast messages
 });
+
+
+addButton.addEventListener
+
+const button = document.createElement("button");
+
+document.body.append
+
+button.addEventListener("click", () => {
+  console.log("Es funktioniert!");
+});
+
+
+
